@@ -1,0 +1,60 @@
+/* Heading*/
+
+.main-header {
+  padding:0,0,0,0;
+  height: 600;
+  background: #0000cc;
+} 
+
+h1 {
+   color: white;
+  background-color: #0000cc;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h2{
+  color: white;
+  background-color: #0000cc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+*{
+ 
+  background: white;
+}
+body {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+/*nav*/
+nav {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+} 
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+}
+/*pseudo classes*/
+
+a:link {
+  color: #0000cc;
+}
+
+a:active {
+  color: #000;
+}
+
